@@ -3,7 +3,7 @@
 Hacky Clicker is a small game built with HTML, CSS, and JavaScript. It's small enough to fit into a QR code and can be played on any device with a mouse.
 
 > [!WARNING]
-> This game contains flashing lights.
+> **This game contains quickly flashing bright lights.**
 
 ## How to Play
 
