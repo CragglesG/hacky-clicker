@@ -5,15 +5,7 @@
       "destination": "/minified.html/"
     },
     {
-      "source": "/*",
-      "destination": "/minified.html/"
-    },
-    {
-      "source": "/index.html",
-      "destination": "/minified.html/"
-    },
-    {
-      "source": "/index.html/",
+      "source": "/:path*",
       "destination": "/minified.html/"
     }
   ]
